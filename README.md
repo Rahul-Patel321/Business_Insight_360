@@ -39,3 +39,7 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Choosing appropriate visuals and using conditional formatting
 - Designing easy-to-understand dashboards and maintaining data accuracy
 - Utilizing Power BI services for seamless navigation and data visualization
+
+## Checkout Certificate: [https://lnkd.in/gNSk8cUh](https://codebasics.io/certificate/CB-49-333591)
+
+## Checkout My Live Dashboard: https://lnkd.in/gyMCKXRi
